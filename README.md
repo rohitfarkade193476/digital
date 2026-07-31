@@ -1,3 +1,3 @@
 # digital
 <br>
-author rohit farkade
+author rohit farkade bca man
